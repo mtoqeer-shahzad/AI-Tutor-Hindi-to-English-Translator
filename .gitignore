@@ -1,0 +1,15 @@
+# Secrets
+.env
+*.txt
+
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+
